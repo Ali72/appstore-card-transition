@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0474C82547C23231C653770AEA0C8F83 /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15837044FCB304E6CCA09D9592E2E86 /* CardCollectionViewCell.swift */; };
-		12FC4B98FD934F70465E89443BE0B382 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		2BB2E96BCD79F2998A8CBA823FAA08A7 /* appstore-card-transition-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51AE2EEC88244C7926F3FA18CE572E04 /* appstore-card-transition-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3C14D441C52052F8D9511109DE12F4E5 /* appstore-card-transition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AEC4DBCCB3D8061588F8E18D2FA93A23 /* appstore-card-transition-dummy.m */; };
-		418AD15A5D8A8F8BF8465AF8BCA4C211 /* CardDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5699D93E579898DDA1C9205C82C0D1A4 /* CardDetailViewController.swift */; };
-		54E7D91FA87D361A8E32025BF6A7775D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		5A3E06C8C94B73097D29F31C2D6B10EB /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 377C701A5C21C701D7A9F73821AC4732 /* UIView+Extension.swift */; };
-		6DFAF00D142FCE961BCB0AE2B30189A5 /* CardTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8617D03A3EFE8EDA69BDC21C8DFBF52F /* CardTransition.swift */; };
-		74FCFCACC83CE20CA70157FE5988F777 /* Pods-AppStoreTransitionAnimation-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4B23ABF4375219BD1A7C8590990FB59 /* Pods-AppStoreTransitionAnimation-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		844929DDD8069586C858DD82FE0678B3 /* Pods-AppStoreTransitionAnimation-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4293EC3EFBAFD080C7BAA06F64FB83A1 /* Pods-AppStoreTransitionAnimation-dummy.m */; };
-		8852042D957BACB4F9961ACA64434B21 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74687D38FC86B4F8F154D058FAD8561C /* UIViewController+Extension.swift */; };
-		A8867900F7C2C1B50736695F68DC89B0 /* DismissCardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE292CEFDBFF4C3BAC8647F1238E955 /* DismissCardAnimator.swift */; };
-		D18E153459FDD5E6140F04942425758C /* CardPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56F785FF3AE1148A1059CB78DC2B1E /* CardPresentationController.swift */; };
-		D63BE267BE8E808E3F98922D9192793A /* PresentCardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA1B28E56C38B5E2C8BBB4E1FFE6CE7 /* PresentCardAnimator.swift */; };
-		E61C6F88D3860AD33135EA1B483CDE5D /* AppstoreTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 2AEE049C86B5BDDF3854E9B39A355E03 /* AppstoreTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		04FCBBB0D9394F3E3139106DA62A13CB /* AppstoreTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = A6EC12B9FE342101B364614FEE0C5438 /* AppstoreTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2030C507583CFB69C4FD632BA2256A75 /* Pods-AppStoreTransitionAnimation-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E4B23ABF4375219BD1A7C8590990FB59 /* Pods-AppStoreTransitionAnimation-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47AFDFB42DAC750359AC3B59FCFCC822 /* CardTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 713A2D0C319DD6012F4D270865740352 /* CardTransition.swift */; };
+		49283C68DD9B7A2E4E44BC0297A97B6C /* CardPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E6D217938E815153F46D3C1B66059B5 /* CardPresentationController.swift */; };
+		498AD94CE7B566F991E0A1983A3DFA2A /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3FB9A8BB3DF695F0D677CB6EBD7711 /* UIView+Extension.swift */; };
+		4EDC5C3D439BB5C662A045178963FDF3 /* PresentCardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7AA870D604C5B82D8DE0D76530550B7 /* PresentCardAnimator.swift */; };
+		51F5224FC89DFB8317CA2A51E87B876A /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABC5E333ECD1AE5B019DF9AB55D6EF8 /* CardCollectionViewCell.swift */; };
+		78D3E0E3E909DB22468CF7D26BBD4426 /* appstore-card-transition-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C0344F073CB3D623A495BD1DD3FF5B4F /* appstore-card-transition-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		861D5C7FEB4F1E49F639B7907C2AD810 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C302BB575A18FD90447CCA32A4F346 /* UIViewController+Extension.swift */; };
+		8DE1151B2F2E13743DCE0C0143101D34 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		BCCE603C0B95CC80A7C9B6612A6330C4 /* CardDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FD8C6FFF7FF6E9678D5317081E2ED2 /* CardDetailViewController.swift */; };
+		C83F6640E0B57EC146970BC5B869A277 /* Pods-AppStoreTransitionAnimation-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4293EC3EFBAFD080C7BAA06F64FB83A1 /* Pods-AppStoreTransitionAnimation-dummy.m */; };
+		CA99DF3004174702D219D70B19F5003A /* DismissCardAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B46B4BE7E038A3E61110F77FB8E78F9A /* DismissCardAnimator.swift */; };
+		CE258BA61B2737D2A0B91E263BFF7817 /* appstore-card-transition-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C198A3D4D990A896D45ED96D39E84C /* appstore-card-transition-dummy.m */; };
+		CFB161AE5CEDC130A28BBC943247773C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		45BCB95EF36855131C31C80E9F5DD2A8 /* PBXContainerItemProxy */ = {
+		0A46AA952A1D42EDB04B9EBEC812402C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -35,53 +35,54 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03BAA5E94F2C7F8685F884D025254104 /* appstore-card-transition.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "appstore-card-transition.modulemap"; sourceTree = "<group>"; };
+		0404D0058ECE8C9A56988ACC08C9374B /* appstore-card-transition.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "appstore-card-transition.release.xcconfig"; sourceTree = "<group>"; };
 		0A18D089F603B4067B276064462102B5 /* Pods-AppStoreTransitionAnimation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AppStoreTransitionAnimation.release.xcconfig"; sourceTree = "<group>"; };
-		0E4A26D5D930FC53D40789C3533658F3 /* appstore-card-transition.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "appstore-card-transition.modulemap"; sourceTree = "<group>"; };
 		1036FFBB94C6C370343EECD524383C8B /* Pods-AppStoreTransitionAnimation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AppStoreTransitionAnimation.modulemap"; sourceTree = "<group>"; };
-		1CB4F6FE57A6CA92EDFFD2AE0062D5F6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		19C302BB575A18FD90447CCA32A4F346 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Extension.swift"; path = "Sources/AppstoreTransition/UIViewController+Extension.swift"; sourceTree = "<group>"; };
 		1DAC9349D746DA02D519465512DDDAB1 /* Pods-AppStoreTransitionAnimation-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AppStoreTransitionAnimation-frameworks.sh"; sourceTree = "<group>"; };
-		1FA1B28E56C38B5E2C8BBB4E1FFE6CE7 /* PresentCardAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PresentCardAnimator.swift; path = Sources/AppstoreTransition/PresentCardAnimator.swift; sourceTree = "<group>"; };
 		2014EC446B0C3D50D831E36221CC9560 /* Pods-AppStoreTransitionAnimation-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppStoreTransitionAnimation-Info.plist"; sourceTree = "<group>"; };
-		2AEE049C86B5BDDF3854E9B39A355E03 /* AppstoreTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AppstoreTransition.h; path = Sources/AppstoreTransition/AppstoreTransition.h; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		377C701A5C21C701D7A9F73821AC4732 /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "Sources/AppstoreTransition/UIView+Extension.swift"; sourceTree = "<group>"; };
-		3DE292CEFDBFF4C3BAC8647F1238E955 /* DismissCardAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DismissCardAnimator.swift; path = Sources/AppstoreTransition/DismissCardAnimator.swift; sourceTree = "<group>"; };
+		20668238002FFF42F29129FE903504E1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		340344537AF71C9AE1C88B51C6DD52CE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4293EC3EFBAFD080C7BAA06F64FB83A1 /* Pods-AppStoreTransitionAnimation-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AppStoreTransitionAnimation-dummy.m"; sourceTree = "<group>"; };
-		45A645CF64739DB9ABC64656479ED58F /* appstore-card-transition.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "appstore-card-transition.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		51AE2EEC88244C7926F3FA18CE572E04 /* appstore-card-transition-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "appstore-card-transition-umbrella.h"; sourceTree = "<group>"; };
-		5699D93E579898DDA1C9205C82C0D1A4 /* CardDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardDetailViewController.swift; path = Sources/AppstoreTransition/CardDetailViewController.swift; sourceTree = "<group>"; };
+		5ABC5E333ECD1AE5B019DF9AB55D6EF8 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardCollectionViewCell.swift; path = Sources/AppstoreTransition/CardCollectionViewCell.swift; sourceTree = "<group>"; };
+		5BC5886D716A18C4EC97A61A2D2F2ABF /* appstore-card-transition-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "appstore-card-transition-Info.plist"; sourceTree = "<group>"; };
 		6C7FBA66E380E20E32C36197FA2E8965 /* Pods-AppStoreTransitionAnimation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AppStoreTransitionAnimation.debug.xcconfig"; sourceTree = "<group>"; };
-		712A615F2D862D5A2164171D9FEDAECB /* appstore-card-transition.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "appstore-card-transition.xcconfig"; sourceTree = "<group>"; };
-		74687D38FC86B4F8F154D058FAD8561C /* UIViewController+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Extension.swift"; path = "Sources/AppstoreTransition/UIViewController+Extension.swift"; sourceTree = "<group>"; };
-		79FE67ECC85E36DBE42B5955483A8D21 /* AppstoreTransition.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AppstoreTransition.framework; path = "appstore-card-transition.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8617D03A3EFE8EDA69BDC21C8DFBF52F /* CardTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardTransition.swift; path = Sources/AppstoreTransition/CardTransition.swift; sourceTree = "<group>"; };
-		88F49AEE531937B1347A39A6E68DC748 /* appstore-card-transition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "appstore-card-transition-prefix.pch"; sourceTree = "<group>"; };
-		9C56F785FF3AE1148A1059CB78DC2B1E /* CardPresentationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardPresentationController.swift; path = Sources/AppstoreTransition/CardPresentationController.swift; sourceTree = "<group>"; };
+		713A2D0C319DD6012F4D270865740352 /* CardTransition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardTransition.swift; path = Sources/AppstoreTransition/CardTransition.swift; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		79FE67ECC85E36DBE42B5955483A8D21 /* appstore-card-transition */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "appstore-card-transition"; path = AppstoreTransition.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		84C198A3D4D990A896D45ED96D39E84C /* appstore-card-transition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "appstore-card-transition-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A15837044FCB304E6CCA09D9592E2E86 /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardCollectionViewCell.swift; path = Sources/AppstoreTransition/CardCollectionViewCell.swift; sourceTree = "<group>"; };
-		AEC4DBCCB3D8061588F8E18D2FA93A23 /* appstore-card-transition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "appstore-card-transition-dummy.m"; sourceTree = "<group>"; };
+		9E6D217938E815153F46D3C1B66059B5 /* CardPresentationController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardPresentationController.swift; path = Sources/AppstoreTransition/CardPresentationController.swift; sourceTree = "<group>"; };
+		A1AE885D74A37A9363C2D89440B3C4DD /* appstore-card-transition.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "appstore-card-transition.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A6EC12B9FE342101B364614FEE0C5438 /* AppstoreTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AppstoreTransition.h; path = Sources/AppstoreTransition/AppstoreTransition.h; sourceTree = "<group>"; };
+		AC25C5B4C626D65C7B12062128438621 /* appstore-card-transition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "appstore-card-transition-prefix.pch"; sourceTree = "<group>"; };
+		B46B4BE7E038A3E61110F77FB8E78F9A /* DismissCardAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DismissCardAnimator.swift; path = Sources/AppstoreTransition/DismissCardAnimator.swift; sourceTree = "<group>"; };
 		BFFFB75FE8FE6AA18969358D16A1D0EB /* Pods-AppStoreTransitionAnimation-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AppStoreTransitionAnimation-acknowledgements.markdown"; sourceTree = "<group>"; };
-		DCB621424DDB46115C88EF6A7444CBC9 /* appstore-card-transition-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "appstore-card-transition-Info.plist"; sourceTree = "<group>"; };
+		C0344F073CB3D623A495BD1DD3FF5B4F /* appstore-card-transition-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "appstore-card-transition-umbrella.h"; sourceTree = "<group>"; };
+		C7AA870D604C5B82D8DE0D76530550B7 /* PresentCardAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PresentCardAnimator.swift; path = Sources/AppstoreTransition/PresentCardAnimator.swift; sourceTree = "<group>"; };
+		E2FD8C6FFF7FF6E9678D5317081E2ED2 /* CardDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CardDetailViewController.swift; path = Sources/AppstoreTransition/CardDetailViewController.swift; sourceTree = "<group>"; };
 		E4B23ABF4375219BD1A7C8590990FB59 /* Pods-AppStoreTransitionAnimation-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AppStoreTransitionAnimation-umbrella.h"; sourceTree = "<group>"; };
-		EB7DEDBDBE573576945996538FF019FF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		ED3FB9A8BB3DF695F0D677CB6EBD7711 /* UIView+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Extension.swift"; path = "Sources/AppstoreTransition/UIView+Extension.swift"; sourceTree = "<group>"; };
 		F0395A8D5C05523C254072EC0466D2F5 /* Pods-AppStoreTransitionAnimation-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppStoreTransitionAnimation-acknowledgements.plist"; sourceTree = "<group>"; };
-		FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods_AppStoreTransitionAnimation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AppStoreTransitionAnimation.framework; path = "Pods-AppStoreTransitionAnimation.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA35FBB5EC65D5893A67A4E803DA91CE /* appstore-card-transition.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "appstore-card-transition.debug.xcconfig"; sourceTree = "<group>"; };
+		FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods-AppStoreTransitionAnimation */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-AppStoreTransitionAnimation"; path = Pods_AppStoreTransitionAnimation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		16398B4196FCAE0E4AFFF0E2F4A4729D /* Frameworks */ = {
+		22E68D6203689EB866B70D8F3A0DE12B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54E7D91FA87D361A8E32025BF6A7775D /* Foundation.framework in Frameworks */,
+				CFB161AE5CEDC130A28BBC943247773C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		58F440B266214E9984738089CFE97E2D /* Frameworks */ = {
+		72602890C5AAD9B6456939834F5B392E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12FC4B98FD934F70465E89443BE0B382 /* Foundation.framework in Frameworks */,
+				8DE1151B2F2E13743DCE0C0143101D34 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,23 +106,50 @@
 			path = "Target Support Files/Pods-AppStoreTransitionAnimation";
 			sourceTree = "<group>";
 		};
-		49125ACF5A2361A5F31A2361D6D6AA74 /* appstore-card-transition */ = {
+		19B6045393F0527AD5195D40EF0E67B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2AEE049C86B5BDDF3854E9B39A355E03 /* AppstoreTransition.h */,
-				A15837044FCB304E6CCA09D9592E2E86 /* CardCollectionViewCell.swift */,
-				5699D93E579898DDA1C9205C82C0D1A4 /* CardDetailViewController.swift */,
-				9C56F785FF3AE1148A1059CB78DC2B1E /* CardPresentationController.swift */,
-				8617D03A3EFE8EDA69BDC21C8DFBF52F /* CardTransition.swift */,
-				3DE292CEFDBFF4C3BAC8647F1238E955 /* DismissCardAnimator.swift */,
-				1FA1B28E56C38B5E2C8BBB4E1FFE6CE7 /* PresentCardAnimator.swift */,
-				377C701A5C21C701D7A9F73821AC4732 /* UIView+Extension.swift */,
-				74687D38FC86B4F8F154D058FAD8561C /* UIViewController+Extension.swift */,
-				C309B04FEB4014EB0907604BDC703716 /* Pod */,
-				EE46279CE675E3D8A86ED3577E90F42C /* Support Files */,
+				79FE67ECC85E36DBE42B5955483A8D21 /* appstore-card-transition */,
+				FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods-AppStoreTransitionAnimation */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1D8A75ACD43DEDB1CB4F5E2951C4CEDB /* appstore-card-transition */ = {
+			isa = PBXGroup;
+			children = (
+				A6EC12B9FE342101B364614FEE0C5438 /* AppstoreTransition.h */,
+				5ABC5E333ECD1AE5B019DF9AB55D6EF8 /* CardCollectionViewCell.swift */,
+				E2FD8C6FFF7FF6E9678D5317081E2ED2 /* CardDetailViewController.swift */,
+				9E6D217938E815153F46D3C1B66059B5 /* CardPresentationController.swift */,
+				713A2D0C319DD6012F4D270865740352 /* CardTransition.swift */,
+				B46B4BE7E038A3E61110F77FB8E78F9A /* DismissCardAnimator.swift */,
+				C7AA870D604C5B82D8DE0D76530550B7 /* PresentCardAnimator.swift */,
+				ED3FB9A8BB3DF695F0D677CB6EBD7711 /* UIView+Extension.swift */,
+				19C302BB575A18FD90447CCA32A4F346 /* UIViewController+Extension.swift */,
+				53DA57AC7293228590C5B63E9203DE5A /* Pod */,
+				A117231421AD0D19C3968D99DA2A4157 /* Support Files */,
 			);
 			name = "appstore-card-transition";
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		53DA57AC7293228590C5B63E9203DE5A /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				A1AE885D74A37A9363C2D89440B3C4DD /* appstore-card-transition.podspec */,
+				20668238002FFF42F29129FE903504E1 /* LICENSE */,
+				340344537AF71C9AE1C88B51C6DD52CE /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		5AB04E59A0B6DFAD1435BD2B46048C1A /* Targets Support Files */ = {
@@ -132,37 +160,25 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		62D43D6A6398C81DC530F806A1467953 /* Products */ = {
+		A117231421AD0D19C3968D99DA2A4157 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				79FE67ECC85E36DBE42B5955483A8D21 /* AppstoreTransition.framework */,
-				FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods_AppStoreTransitionAnimation.framework */,
+				03BAA5E94F2C7F8685F884D025254104 /* appstore-card-transition.modulemap */,
+				84C198A3D4D990A896D45ED96D39E84C /* appstore-card-transition-dummy.m */,
+				5BC5886D716A18C4EC97A61A2D2F2ABF /* appstore-card-transition-Info.plist */,
+				AC25C5B4C626D65C7B12062128438621 /* appstore-card-transition-prefix.pch */,
+				C0344F073CB3D623A495BD1DD3FF5B4F /* appstore-card-transition-umbrella.h */,
+				FA35FBB5EC65D5893A67A4E803DA91CE /* appstore-card-transition.debug.xcconfig */,
+				0404D0058ECE8C9A56988ACC08C9374B /* appstore-card-transition.release.xcconfig */,
 			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		C309B04FEB4014EB0907604BDC703716 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				45A645CF64739DB9ABC64656479ED58F /* appstore-card-transition.podspec */,
-				EB7DEDBDBE573576945996538FF019FF /* LICENSE */,
-				1CB4F6FE57A6CA92EDFFD2AE0062D5F6 /* README.md */,
-			);
-			name = Pod;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/appstore-card-transition";
 			sourceTree = "<group>";
 		};
 		C45A874545B0D5BB02B094D6328D2874 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				49125ACF5A2361A5F31A2361D6D6AA74 /* appstore-card-transition */,
+				1D8A75ACD43DEDB1CB4F5E2951C4CEDB /* appstore-card-transition */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -173,7 +189,7 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				C45A874545B0D5BB02B094D6328D2874 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				62D43D6A6398C81DC530F806A1467953 /* Products */,
+				19B6045393F0527AD5195D40EF0E67B8 /* Products */,
 				5AB04E59A0B6DFAD1435BD2B46048C1A /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -181,42 +197,28 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		EE46279CE675E3D8A86ED3577E90F42C /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0E4A26D5D930FC53D40789C3533658F3 /* appstore-card-transition.modulemap */,
-				712A615F2D862D5A2164171D9FEDAECB /* appstore-card-transition.xcconfig */,
-				AEC4DBCCB3D8061588F8E18D2FA93A23 /* appstore-card-transition-dummy.m */,
-				DCB621424DDB46115C88EF6A7444CBC9 /* appstore-card-transition-Info.plist */,
-				88F49AEE531937B1347A39A6E68DC748 /* appstore-card-transition-prefix.pch */,
-				51AE2EEC88244C7926F3FA18CE572E04 /* appstore-card-transition-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/appstore-card-transition";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4B453F2A92A9631ABF4B63A48A7F8244 /* Headers */ = {
+		991B17C4FB8B0520ADF9075DF635917F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				74FCFCACC83CE20CA70157FE5988F777 /* Pods-AppStoreTransitionAnimation-umbrella.h in Headers */,
+				78D3E0E3E909DB22468CF7D26BBD4426 /* appstore-card-transition-umbrella.h in Headers */,
+				04FCBBB0D9394F3E3139106DA62A13CB /* AppstoreTransition.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AFB414BBC039654954F97D6AF183F296 /* Headers */ = {
+		A0DE0B9C2A18C3A49B72D784BB4CC8FA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2BB2E96BCD79F2998A8CBA823FAA08A7 /* appstore-card-transition-umbrella.h in Headers */,
-				E61C6F88D3860AD33135EA1B483CDE5D /* AppstoreTransition.h in Headers */,
+				2030C507583CFB69C4FD632BA2256A75 /* Pods-AppStoreTransitionAnimation-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,39 +227,39 @@
 /* Begin PBXNativeTarget section */
 		8333080E4416539C89F976BCECB41319 /* appstore-card-transition */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C9B0DFB4B7D6EE2B9A6C2B66148DAE32 /* Build configuration list for PBXNativeTarget "appstore-card-transition" */;
+			buildConfigurationList = C5707B75EFA2A3A6E08F692E0D1C9AB0 /* Build configuration list for PBXNativeTarget "appstore-card-transition" */;
 			buildPhases = (
-				AFB414BBC039654954F97D6AF183F296 /* Headers */,
-				9AFD1A4F9093D088769CC27FF07C1A29 /* Sources */,
-				58F440B266214E9984738089CFE97E2D /* Frameworks */,
-				91612010B60BD24244FEDA0B2A082402 /* Resources */,
+				991B17C4FB8B0520ADF9075DF635917F /* Headers */,
+				28AF6DEF7FDB395070F4719553E02709 /* Sources */,
+				72602890C5AAD9B6456939834F5B392E /* Frameworks */,
+				04B556A1314221AE9514FE576F9AACA9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "appstore-card-transition";
-			productName = "appstore-card-transition";
-			productReference = 79FE67ECC85E36DBE42B5955483A8D21 /* AppstoreTransition.framework */;
+			productName = AppstoreTransition;
+			productReference = 79FE67ECC85E36DBE42B5955483A8D21 /* appstore-card-transition */;
 			productType = "com.apple.product-type.framework";
 		};
 		98CD8C3829D743C7F3C3E3EE570297F5 /* Pods-AppStoreTransitionAnimation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A1924A584B8D9226327D8B93497051E /* Build configuration list for PBXNativeTarget "Pods-AppStoreTransitionAnimation" */;
+			buildConfigurationList = CBA99F498B196728A06E71BC585C9101 /* Build configuration list for PBXNativeTarget "Pods-AppStoreTransitionAnimation" */;
 			buildPhases = (
-				4B453F2A92A9631ABF4B63A48A7F8244 /* Headers */,
-				0C24047F77BCF45DBDD3363224B925D0 /* Sources */,
-				16398B4196FCAE0E4AFFF0E2F4A4729D /* Frameworks */,
-				2D9451FB7239006AC4F83F1FFD5BE386 /* Resources */,
+				A0DE0B9C2A18C3A49B72D784BB4CC8FA /* Headers */,
+				3B44E8F0B2C707CCB0B6903672DE4496 /* Sources */,
+				22E68D6203689EB866B70D8F3A0DE12B /* Frameworks */,
+				B0A51FB73D1B64CE7FDA5F6CE3260637 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				B0FCFC496800BEC2830E8FF9FC72EC56 /* PBXTargetDependency */,
+				380FDAD1F865A211BC1696CD23775D63 /* PBXTargetDependency */,
 			);
 			name = "Pods-AppStoreTransitionAnimation";
-			productName = "Pods-AppStoreTransitionAnimation";
-			productReference = FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods_AppStoreTransitionAnimation.framework */;
+			productName = Pods_AppStoreTransitionAnimation;
+			productReference = FE3F8C04DB6917BC2CCB7EB879BB515B /* Pods-AppStoreTransitionAnimation */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -266,18 +268,19 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				Base,
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 62D43D6A6398C81DC530F806A1467953 /* Products */;
+			productRefGroup = 19B6045393F0527AD5195D40EF0E67B8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -288,14 +291,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		2D9451FB7239006AC4F83F1FFD5BE386 /* Resources */ = {
+		04B556A1314221AE9514FE576F9AACA9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		91612010B60BD24244FEDA0B2A082402 /* Resources */ = {
+		B0A51FB73D1B64CE7FDA5F6CE3260637 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -305,46 +308,118 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0C24047F77BCF45DBDD3363224B925D0 /* Sources */ = {
+		28AF6DEF7FDB395070F4719553E02709 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				844929DDD8069586C858DD82FE0678B3 /* Pods-AppStoreTransitionAnimation-dummy.m in Sources */,
+				CE258BA61B2737D2A0B91E263BFF7817 /* appstore-card-transition-dummy.m in Sources */,
+				51F5224FC89DFB8317CA2A51E87B876A /* CardCollectionViewCell.swift in Sources */,
+				BCCE603C0B95CC80A7C9B6612A6330C4 /* CardDetailViewController.swift in Sources */,
+				49283C68DD9B7A2E4E44BC0297A97B6C /* CardPresentationController.swift in Sources */,
+				47AFDFB42DAC750359AC3B59FCFCC822 /* CardTransition.swift in Sources */,
+				CA99DF3004174702D219D70B19F5003A /* DismissCardAnimator.swift in Sources */,
+				4EDC5C3D439BB5C662A045178963FDF3 /* PresentCardAnimator.swift in Sources */,
+				498AD94CE7B566F991E0A1983A3DFA2A /* UIView+Extension.swift in Sources */,
+				861D5C7FEB4F1E49F639B7907C2AD810 /* UIViewController+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9AFD1A4F9093D088769CC27FF07C1A29 /* Sources */ = {
+		3B44E8F0B2C707CCB0B6903672DE4496 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C14D441C52052F8D9511109DE12F4E5 /* appstore-card-transition-dummy.m in Sources */,
-				0474C82547C23231C653770AEA0C8F83 /* CardCollectionViewCell.swift in Sources */,
-				418AD15A5D8A8F8BF8465AF8BCA4C211 /* CardDetailViewController.swift in Sources */,
-				D18E153459FDD5E6140F04942425758C /* CardPresentationController.swift in Sources */,
-				6DFAF00D142FCE961BCB0AE2B30189A5 /* CardTransition.swift in Sources */,
-				A8867900F7C2C1B50736695F68DC89B0 /* DismissCardAnimator.swift in Sources */,
-				D63BE267BE8E808E3F98922D9192793A /* PresentCardAnimator.swift in Sources */,
-				5A3E06C8C94B73097D29F31C2D6B10EB /* UIView+Extension.swift in Sources */,
-				8852042D957BACB4F9961ACA64434B21 /* UIViewController+Extension.swift in Sources */,
+				C83F6640E0B57EC146970BC5B869A277 /* Pods-AppStoreTransitionAnimation-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		B0FCFC496800BEC2830E8FF9FC72EC56 /* PBXTargetDependency */ = {
+		380FDAD1F865A211BC1696CD23775D63 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "appstore-card-transition";
 			target = 8333080E4416539C89F976BCECB41319 /* appstore-card-transition */;
-			targetProxy = 45BCB95EF36855131C31C80E9F5DD2A8 /* PBXContainerItemProxy */;
+			targetProxy = 0A46AA952A1D42EDB04B9EBEC812402C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		257497152829C177993B5EC99C1D227A /* Release */ = {
+		4EB6C30C4FBFC60711D6F659BA099A5C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0404D0058ECE8C9A56988ACC08C9374B /* appstore-card-transition.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/appstore-card-transition/appstore-card-transition-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition.modulemap";
+				PRODUCT_MODULE_NAME = AppstoreTransition;
+				PRODUCT_NAME = AppstoreTransition;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		77F403DA5F08D69E429C9A8CA4258D54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA35FBB5EC65D5893A67A4E803DA91CE /* appstore-card-transition.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/appstore-card-transition/appstore-card-transition-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition.modulemap";
+				PRODUCT_MODULE_NAME = AppstoreTransition;
+				PRODUCT_NAME = AppstoreTransition;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		903A0004D3E6651EFD5D2E16214D101B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -367,6 +442,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -401,49 +477,12 @@
 			};
 			name = Release;
 		};
-		36D4742A99C0F8A93A47D12D06F7596F /* Debug */ = {
+		9EC5D193A68722C58AF854BDF2F75CF9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 712A615F2D862D5A2164171D9FEDAECB /* appstore-card-transition.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/appstore-card-transition/appstore-card-transition-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition.modulemap";
-				PRODUCT_MODULE_NAME = AppstoreTransition;
-				PRODUCT_NAME = AppstoreTransition;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		83625B9706F12CBF050E0F7ECAA96E9F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0A18D089F603B4067B276064462102B5 /* Pods-AppStoreTransitionAnimation.release.xcconfig */;
+			baseConfigurationReference = 6C7FBA66E380E20E32C36197FA2E8965 /* Pods-AppStoreTransitionAnimation.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -470,53 +509,16 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		9489EA09081CDB699EA67722BC5862D6 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 712A615F2D862D5A2164171D9FEDAECB /* appstore-card-transition.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/appstore-card-transition/appstore-card-transition-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/appstore-card-transition/appstore-card-transition.modulemap";
-				PRODUCT_MODULE_NAME = AppstoreTransition;
-				PRODUCT_NAME = AppstoreTransition;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		DD8F832993327D1DD8046C3CBCBD97CD /* Debug */ = {
+		B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -539,6 +541,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -577,13 +580,12 @@
 			};
 			name = Debug;
 		};
-		F758A6C4355F7D5F478619E594438889 /* Debug */ = {
+		F38AE99F024344A385B190843A0E7A73 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C7FBA66E380E20E32C36197FA2E8965 /* Pods-AppStoreTransitionAnimation.debug.xcconfig */;
+			baseConfigurationReference = 0A18D089F603B4067B276064462102B5 /* Pods-AppStoreTransitionAnimation.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -610,37 +612,38 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A1924A584B8D9226327D8B93497051E /* Build configuration list for PBXNativeTarget "Pods-AppStoreTransitionAnimation" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F758A6C4355F7D5F478619E594438889 /* Debug */,
-				83625B9706F12CBF050E0F7ECAA96E9F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD8F832993327D1DD8046C3CBCBD97CD /* Debug */,
-				257497152829C177993B5EC99C1D227A /* Release */,
+				B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */,
+				903A0004D3E6651EFD5D2E16214D101B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C9B0DFB4B7D6EE2B9A6C2B66148DAE32 /* Build configuration list for PBXNativeTarget "appstore-card-transition" */ = {
+		C5707B75EFA2A3A6E08F692E0D1C9AB0 /* Build configuration list for PBXNativeTarget "appstore-card-transition" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				36D4742A99C0F8A93A47D12D06F7596F /* Debug */,
-				9489EA09081CDB699EA67722BC5862D6 /* Release */,
+				77F403DA5F08D69E429C9A8CA4258D54 /* Debug */,
+				4EB6C30C4FBFC60711D6F659BA099A5C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CBA99F498B196728A06E71BC585C9101 /* Build configuration list for PBXNativeTarget "Pods-AppStoreTransitionAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9EC5D193A68722C58AF854BDF2F75CF9 /* Debug */,
+				F38AE99F024344A385B190843A0E7A73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

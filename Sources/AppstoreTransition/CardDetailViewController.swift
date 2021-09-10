@@ -106,7 +106,7 @@ public final class CardDismissHandler: NSObject {
     var dismissalAnimator: UIViewPropertyAnimator?
     var draggingDownToDismiss = false
     
-    private let source: CardDetailViewController
+    private weak var source: CardDetailViewController!
     
     init(source: CardDetailViewController) {
         // We require source object in case we need access some properties etc.
